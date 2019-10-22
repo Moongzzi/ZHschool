@@ -17,7 +17,7 @@ System.out.println("I'm Moongzzi");
 |----|---|
 |2305|김선옥|
 
-[내 홈페이지로 가기] (https://github.com/Moongzzi/ZHschool)
+[내 홈페이지로 가기] (https://moongzzi.github.io/ZHschool/)
 
 ![구글로 가기]
 (https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
